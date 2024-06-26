@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sebbi1911
-- 👀 I’m interested in earning different (programming) languages, and continuously improving my skills.
-- 🌱 I’m currently learning industrial engineering with focus on business informatics. 
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning for the bachelor in cybersecurity.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: currently not available.
 
